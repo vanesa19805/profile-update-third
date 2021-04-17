@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+<!-- added bootstrap and nav bar-->    
+    <meta charset="UTF-8">
+<title>Vanesa Gonzalez</title>
+
+    <link rel="stylesheet" href="reset.css" href= style.css>
+<!--added float css-->
+    <meta name= "viewport" content="with=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/357c939040.js" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+<header class= "home">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Vanesa Gonzalez</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="index.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="portfolio.html">Portfolio</a>
+          </li>
+          <li class= "nav-item">
+            <a class= "nav-link active" href="contact.html">Contact</a>
+          </li>
+          <li class= "nav-item">
+            <a class= "nav-link active" href="resume.html">Resume</a>
+          </li>  
+  </nav>
+</header>
+
+
+  <body>
+<header>
+  <title>Vanesa Gonzalez</title>
+
+  <div class="card mb-3" style="width: 100%;">
+  <img class ="vanesa" src="./assets/profile.jpg"  img alt="picture of Vanesa Gonzalez, the person on this about me page" style="width: 50%;">
+    <div class="card-body">
+      <h5 class="card-title">About Me</h5>
+      <p class="card-text" style= "margin-bottom:.05%;">Hello World! My Name, as you can tell from the title is Vanesa Gonzalez. Im currently 26 years old living in Wilmington Delaware. Im a Graduate of Wilmngton University with a BA in Business- Marketing. After graduating college in 2018 I joined a insurance group. I maganged to obtained my property, casulty life, health and disability producer licenses in the State of Delaware. Currently working on new skills that will hopefully lead to a more fruitful and creative carrer.</p>
+    </div>
+  </div>
+
+</nav>
+<div class="card-DT" style="margin-bottom:5%;">
+    <div class="card-body" >
+        <h5 class="card-title">Down Time</h5>
+    <p>When im not working or studying I enjoy the music scene in Philly and travel to Music festivals. I've really enjoy Traveling so when the line up is good i try to explore new festivals around the country. Some of festivals ive traveled to are:
+  <ul>
+    <li>Firefly music festival</li>
+    <li>Moonrise Music festival</li>
+    <li>Hijinx Music Festival</li>
+  </div>
+<!--adding footer-->
+<footer>
+  <nav class="navbar navbar-light bg-secondary fixed-bottom border-top border-info border-3">
+  <section class="container">
+      <div class="navbar mx-auto">
+<!-- added font awsome -->
+<a class="link-dark p-2" href="https://github.com/vanesa19805" target="_blank"><i class="fab fa-github fa-2x"></i></a> 
+</footer>
+  </body>
+
+</html>
